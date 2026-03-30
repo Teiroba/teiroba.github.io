@@ -18,20 +18,7 @@ footer: >-
   made to be easy to use! 🎓
 ---
 
-> [!NOTE]
-> This website is an example of what one can get with the `basicpage` template
-> designed for easy-to-create personal academic page.
-> You are only required to know a little bit of Markdown to get started!
-> Just follow the README of the
-> [Github repository](https://github.com/basicpage/basicpage.github.io).
-
 Placeholder
-
-> [!TIP]
-> The way this page is structured is only a suggestion, and you are basically
-> free to customise everything however you want. For the more advanced
-> customisation you might need to now very basic CSS and/or HTML, but that's it
-> because we do not rely on any heavy machinery.
 
 # Publications
 
