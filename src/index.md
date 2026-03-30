@@ -1,5 +1,5 @@
 ---
-title: Basicpage template
+title: Teiki Rigaud
 author: Teiki Rigaud
 shortbio: Theoretical Computer Science student
 description-meta: Short bio for meta-data
