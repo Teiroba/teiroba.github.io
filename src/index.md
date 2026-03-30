@@ -16,7 +16,7 @@ orcid: 0009-0009-1968-6907
 footer: >-
   Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io), 
-  by [Théo Winterhalter](https://theowinterhalter.github.io/) and [Yannick Forster](https://yforster.de/). 🎓
+  by [Théo Winterhalter](https://theowinterhalter.github.io/) and [Yannick Forster](https://yforster.de/).
 ---
 
 Placeholder
@@ -38,3 +38,26 @@ Placeholder
 
 I studied Computer Science at the [École Normale Supérieure](https://ens.psl.eu/), doing the [MPRI](https://mpri-master.ens.fr/)
 
+# Internships
+
+During my studies, I had the pleasure of working with the following people:
+``` json {.papers}
+{
+  "title": "Design and analysis of Euclidean Capacitated Vehicle Routing",
+  "authors": "Claire Mathieu, Hang Zhou",
+  "venue": "IRIF",
+  "year": "2026"
+},
+{
+  "title": "Hall ratio and fractional chromatic number of box intersection graphs",
+  "authors": "Bartosz Walczak",
+  "venue": "Jagiellonian University, TCS",
+  "year": "2024"
+},
+{
+  "title": "A scheduling problem for LoRa technology",
+  "authors": "Christelle Caillouet, Frédéric HAVET, Lucas Picasarri-Arrieta",
+  "venue": "INRIA Sophia Antipolis, team COATI",
+  "year": "2023"
+}
+```
