@@ -12,10 +12,11 @@ side-by-side: true
 disable-dark-mode: false
 pronouns: He/Him
 og-picture: https://basicpage.github.io/img/profile.png
+orcid: 0009-0009-1968-6907
 footer: >-
   Based on the
-  [basicpage template](https://github.com/basicpage/basicpage.github.io),
-  made to be easy to use! 🎓
+  [basicpage template](https://github.com/basicpage/basicpage.github.io), 
+  by [Théo Winterhalter](https://theowinterhalter.github.io/) and [Yannick Forster](https://yforster.de/). 🎓
 ---
 
 Placeholder
